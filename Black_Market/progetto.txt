@@ -1,0 +1,4 @@
+Si realizzi un database che tenga conto dei prodotti del mercato nero
+Ogni prodotto è definito da un'immagine di copertina, da un titolo, da una descrizione, dal prezzo diviso in valore e valuta, dalle caratteristiche, da un rating che va da 1 a 5 stelle e dal venditore.
+Il venditore è identificato da nome utente, password (da utilizzare solo per il login), immagine di profilo (arbitraria), una lista che tenga conto di tutti i prodotti da lui venduti e un rating, anch'esso da una a 5 stelle.
+Le valute accettabili sono solo dollaro americano (USD), euro (EUR) e Bitcoin (BTC).
